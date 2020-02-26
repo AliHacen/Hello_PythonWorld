@@ -1,2 +1,3 @@
 # Hello_PythonWorld
-This is my first upload on this awesome platform, just saying hello.
+# greetings, starting to upload my python work here
+This is my first upload on this awesome platform.
